@@ -5,8 +5,10 @@ title: Hello World
 
 I'm lapin with GitHub pages.
 
-``java
+```java
+
 String str = "Hello Lapin World";
 System.out.println(str);
-``
+
+```
 
