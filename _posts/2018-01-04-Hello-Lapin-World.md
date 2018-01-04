@@ -13,9 +13,5 @@ title: Hello Lapin World
 
 This is a normal paragraph
 ```java
-String str = "Hello Lapin World";
-System.out.println(str);
-if(str != null){
-System.out.println("str is not null");
-}
+
 ```
