@@ -10,5 +10,4 @@ This is a normal paragraph
 	System.out.println(str);
 	if(str != null){
 		System.out.println("str is not null");
-
 	}
