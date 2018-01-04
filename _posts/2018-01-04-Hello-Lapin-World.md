@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: Hello Lapin World
 ---
 
-I'm lapin with GitHub pages.
+안녕하세요 라팡의 github 페이지입니다.
 
 ```java
 
